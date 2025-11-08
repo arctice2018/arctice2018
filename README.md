@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arctice2018
-- 👀 I’m interested in Cloud Native,Deeplearning
-- 🌱 I’m currently learning Istio and Kubesphere.
-- 💞️ I’m looking to collaborate on deveoping CSI plugin for CTSI storage.
+- 👀 I’m interested in vibe coding
 - 📫 Welcome to reach me by Email 
 
 <!---
